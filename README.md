@@ -9,14 +9,14 @@ Matlab 2016 or above.
 ## Codes 
 A_VDA_GMSBMF.m: VDA-GKSBMF algorithm  <br>
 % Input:  <br>
-matDV: drug-virus matrix <br> 
-Wdd: drug-drug matrix <br> 
-Wvv: virus-virus matrix <br> 
-others: parameters <br> 
+% matDV: drug-virus matrix <br> 
+% Wdd: drug-drug matrix <br> 
+% Wvv: virus-virus matrix <br> 
+% others: parameters <br> 
 % Ouput: <br>
-M_recovery: matrix for predicted drug-virus scores <br> 
+% M_recovery: matrix for predicted drug-virus scores <br> 
 
-%main.m: cross-validation code.  <br>
+main.m: cross-validation code.  <br>
 
 
 ## Dataset
